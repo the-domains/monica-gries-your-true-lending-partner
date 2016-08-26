@@ -1,3 +1,4 @@
+layout_spectrum: 0.3254039303865284
 typography_spectrum: 0.11414732853882015
 color:
   brandStrength: 0.9569670942146331
@@ -5,12 +6,9 @@ color:
   saturation: 0.5505252676084638
   rhythmicContrast: 0.16461480874568224
   brandColors:
-    - '#DDDCC5'
-    - '#958976'
-    - '#611427'
-    - '#1D2326'
-    - '#6A6A61'
-layout_spectrum: 0.3254039303865284
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: Monica Gries Your True Lending Partner
-title: A Mortgage Company You Can Trust & Count On
-description: AmCap Mortgage LTD. - Gulf Coast Division
