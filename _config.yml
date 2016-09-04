@@ -23,5 +23,9 @@ author:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/68d93d46-66d1-49b8-a8d3-1471e5ea39af.jpg
 name: Monica Gries Your True Lending Partner
+navigation:
+  - name: Full Application
+    url: 'https://amcapgulfcoast.mortgage-application.net/WebApp/Start.aspx'
+    type: external
 title: A Mortgage Company You Can Trust & Count On
 description: AmCap Mortgage LTD. - Gulf Coast Division
